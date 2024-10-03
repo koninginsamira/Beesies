@@ -1,0 +1,13 @@
+filename = 'lightningmod-1.4.2.jar'
+name = 'LightingMod'
+side = 'both'
+
+[download]
+hash = 'be78630f299a8a2ba77536f7a38a9db9ef6f9bcdd78f158f38d3d6ab433c6291d1989b2defed7e9320a5af8356f9e7698b017eaae69f406c3961e4451a4ec850'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rc5Lp21j/versions/RhCSM6eK/lightningmod-1.4.2.jar'
+
+[update.modrinth]
+mod-id = 'rc5Lp21j'
+version = 'RhCSM6eK'

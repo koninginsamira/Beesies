@@ -1,0 +1,13 @@
+filename = 'fabric-seasons-2.4.1-BETA+1.21.jar'
+name = 'Fabric Seasons'
+side = 'both'
+
+[download]
+hash = 'b795636736b381c313bfec746c80db5f57787be978c0d493d1d866a28feba53370fcdb6c798956fb905e7a08643f5a1fea0e0daae131fc280da33eb10efd38eb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KJe6y9Eu/versions/vPuQOuvv/fabric-seasons-2.4.1-BETA%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'KJe6y9Eu'
+version = 'vPuQOuvv'
