@@ -1,0 +1,13 @@
+filename = 'betterhandbobbing-1.7.jar'
+name = 'BetterHandBobbing'
+side = 'client'
+
+[download]
+hash = 'ecd69ecfb9e7a462a003cb662c5d17c9e3884a341dc807e5a59de3bb84273fb0e705becc607be3e14cd3a1469cfb43f14370b79854dc8805193bc9961874c59d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2FJYrSBD/versions/YknqNACR/betterhandbobbing-1.7.jar'
+
+[update.modrinth]
+mod-id = '2FJYrSBD'
+version = 'YknqNACR'
