@@ -1,0 +1,13 @@
+filename = 'MoreFeedingTroughVariants-1.0.1+1.21-Fabric.jar'
+name = 'More Feeding Trough Variants'
+side = 'both'
+
+[download]
+hash = '5e8c6307a03e97f6d20fae68c988545a9a6aa9753aa4651871e3a018c808eb3f1f224fdb13f1b1ec23f0d9e86e618f6a5e7626108710e12c2644a92b25b33479'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1tqQKQKR/versions/VQWYyPb6/MoreFeedingTroughVariants-1.0.1%2B1.21-Fabric.jar'
+
+[update.modrinth]
+mod-id = '1tqQKQKR'
+version = 'VQWYyPb6'

@@ -1,0 +1,13 @@
+filename = 'storagedelight-24.09.11-1.21-fabric.jar'
+name = 'Storage Delight'
+side = 'both'
+
+[download]
+hash = '0284b04f550d0ca1dded824b116766fa1faeb579527c3540035a41907271f7b5ce451fc6e6f293027074462d1b02e3fd248c9ad1fa9a1e18f6fd845e10db8294'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LTTvOp5L/versions/AjIsYHqC/storagedelight-24.09.11-1.21-fabric.jar'
+
+[update.modrinth]
+mod-id = 'LTTvOp5L'
+version = 'AjIsYHqC'
